@@ -8,7 +8,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class Address {
-		public final String TYPE_COMPANY = "company";
+	
+	    public final String TYPE_COMPANY = "company";
 	    public final String TYPE_PERSON = "person";
 	    
 	    public final int ERROR_INVALID_PARAMETER = 0x11100001;
